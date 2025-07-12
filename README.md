@@ -1,5 +1,7 @@
 <h1 align="center">Hi 👋, I'm Nguyen Trung Hieu</h1>
-<h3 align="center">Fullstack Developer</h3>
+<p align="center">
+  <img src="https://github.com/nguyenhtbww/nguyenhtbww/blob/main/cat-typing.gif" width="250" alt="Fullstack Dev Cat" />
+</p>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com/?lines=Fullstack%20Web%20Developer;React.js%20%7C%20Next.js%20%7C%20TypeScript%20%7C%20Node.js;I%20love%20code%20&center=true&width=500&height=45">
