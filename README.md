@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Nguyen Trung Hieu</h1>
 <p align="center">
-  <img src="https://github.com/nguyenhtbww/nguyenhtbww/blob/main/cat-typing.gif" width="250" alt="Fullstack Dev Cat" />
+  <img src="https://github.com/nguyenhtbww/nguyenhtbww/blob/main/cat-typing.gif" width="100" alt="Fullstack Dev Cat" />
 </p>
 
 <p align="center">
